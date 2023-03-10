@@ -1,0 +1,18 @@
+--- PYTHON VERİ TİPLERİ ---
+Nümerik (Sayısal) Veri Tipleri: Bu veri tiplerinde adındanda anlaşıldığı üzere sayısal veriler saklanır. Örnek verecek olursak (int)
+
+Alfabetik Veri Tipleri: Bu veri tiplerinde adındanda anlaşıldığı üzere metinsel ifadeler saklanır. Örnek verecek olursak string(str),char
+
+Sıralama(Sequence) Veri Tipleri: tuole,list,range. Genelde birde fazla veriyi saklayacağımız veri tipidir.
+
+Boolean Veri Tipleri: bool. True ya da False değerler almak için kullanılan veri türüdür.
+
+--- EK ---
+Haritalama(Mapping) Veri Tipleri: dict
+Set Veri Tipleri: set,frozenset
+Binary Veri Tipleri: bytes,bytearray,memoryview
+----------------------------------------------------------------------------------------
+KODLAMA.IO
+Eğitmen Adı=string
+Eğitim Adı=string
+Eğitim Yüzdesi=integer
